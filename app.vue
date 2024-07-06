@@ -1,5 +1,11 @@
+<!-- 
+	TODO:
+	[x] - Customer table
+	[] - Customer edit page
+ -->
+
 <template>
-  <div>
-    <NuxtLayout> </NuxtLayout>
-  </div>
+	<NuxtLayout>
+		<NuxtPage />
+	</NuxtLayout>
 </template>
